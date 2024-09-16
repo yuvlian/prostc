@@ -4,7 +4,7 @@ but google's implementation in protoc sucks?
 
 and making a build.rs with prost_build is too tiring?
 
-well i shall present to you, **prostc**
+well i shall present to you, **prostc** !! (prebuilt is available in releases page)
 
 images of test
 
